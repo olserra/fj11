@@ -12,8 +12,11 @@ public abstract class Conta implements Comparable<Conta> {
     public Conta() {
     }
 
-    public Conta(String titular) {
+    public Conta(int numero, String agencia, String titular, double saldo) {
+        this.numero = numero;
+        this.agencia = agencia;
         this.titular = titular;
+        this.saldo = saldo;
     }
 
     @Override
@@ -103,4 +106,6 @@ public abstract class Conta implements Comparable<Conta> {
     public int compareTo(Conta outraConta) {
         return this.titular.compareTo(outraConta.titular);
     }
+
+    public abstract String getTipo();
 }
