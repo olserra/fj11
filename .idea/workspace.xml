@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3b2fa80-6f8d-4139-9f79-299bc34d5845" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/caelum/contas/main/TestaInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/caelum/contas/main/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/caelum/contas/main/Teste1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/caelum/contas/modelo/Programa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/caelum/contas/modelo/Programa1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/fj11_lib_contas.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/fj11_lib_contas.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicio1-FJ11/META-INF/exercicio1-FJ11.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicio1-FJ11/br/com/caelum/contas/ManipuladorDeContas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicio1-FJ11/br/com/caelum/contas/ManipuladorDeContas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicio1-FJ11/br/com/caelum/contas/main/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicio1-FJ11/br/com/caelum/contas/main/TestaArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicio1-FJ11/br/com/caelum/contas/main/TestaBanco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicio1-FJ11/br/com/caelum/contas/main/TestaLista.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicio1-FJ11/br/com/caelum/contas/main/TestaTributavel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicio1-FJ11/br/com/caelum/contas/main/TesteErro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicio1-FJ11/br/com/caelum/contas/modelo/Conta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicio1-FJ11/br/com/caelum/contas/modelo/Conta.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicio1-FJ11/br/com/caelum/contas/modelo/ContaCorrente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicio1-FJ11/br/com/caelum/contas/modelo/ContaCorrente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicio1-FJ11/br/com/caelum/contas/modelo/ContaPoupanca.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicio1-FJ11/br/com/caelum/contas/modelo/ContaPoupanca.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/contas/ManipuladorDeContas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/contas/ManipuladorDeContas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/contas/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/contas/main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/contas/main/TestaArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/contas/main/TestaArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/contas/main/TestaBanco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/contas/main/TestaBanco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/contas/main/TestaLista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/contas/main/TestaLista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/contas/main/TestaMapa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/contas/main/TestaMapa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/contas/main/TestaTributavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/contas/main/TestaTributavel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/contas/main/TesteErro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/contas/main/TesteErro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/contas/modelo/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/contas/modelo/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/contas/modelo/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/contas/modelo/ContaCorrente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/contas/modelo/ContaPoupanca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/caelum/contas/modelo/ContaPoupanca.java" afterDir="false" />
-    </list>
+    <list default="true" id="f3b2fa80-6f8d-4139-9f79-299bc34d5845" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -120,8 +89,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/main/Teste1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+            <state relative-caret-position="285">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -814,8 +783,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/main/Teste1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+        <state relative-caret-position="285">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
