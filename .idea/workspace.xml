@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3b2fa80-6f8d-4139-9f79-299bc34d5845" name="Default Changelist" comment="" />
+    <list default="true" id="f3b2fa80-6f8d-4139-9f79-299bc34d5845" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/exercicio1-FJ11/META-INF/exercicio1-FJ11.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercicio1-FJ11/br/com/caelum/contas/modelo/Cliente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercicio1-FJ11/br/com/caelum/contas/modelo/Recebedor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercicio1-FJ11/br/com/caelum/contas/modelo/Servidor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/exercicio1-FJ11/br/com/caelum/contas/modelo/TrataCliente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/caelum/contas/modelo/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/caelum/contas/modelo/Recebedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/caelum/contas/modelo/Servidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/caelum/contas/modelo/TrataCliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio1-FJ11/br/com/caelum/contas/main/Teste1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicio1-FJ11/br/com/caelum/contas/main/Teste1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exercicio1-FJ11/br/com/caelum/contas/main/Teste1.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,110 +26,66 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/modelo/Conta.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/main/TestaContas.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/ManipuladorDeContas.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2">
-              <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/RepositorioDeContas.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/main/TestaInteger.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/modelo/Programa.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="16" selection-end-column="9" />
-              <folding>
-                <element signature="e#165#166#0" expanded="true" />
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#188#189#0" expanded="true" />
-                <element signature="e#216#217#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/main/Teste.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/main/Teste1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/modelo/Programa1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="6" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/modelo/ContaCorrente.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.46268657">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/modelo/Recebedor.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="330">
+                  <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#192#193#0" expanded="true" />
+                    <element signature="e#231#232#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/modelo/TrataCliente.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="231">
+                  <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="21" selection-end-column="5" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/modelo/Cliente.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="597">
+                  <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/modelo/Servidor.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="104">
+                  <caret line="22" column="59" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -168,14 +137,20 @@
         <option value="$PROJECT_DIR$/src/br/com/caelum/contas/main/Teste.java" />
         <option value="$PROJECT_DIR$/src/br/com/caelum/contas/modelo/Programa1.java" />
         <option value="$PROJECT_DIR$/src/br/com/caelum/contas/main/Teste1.java" />
+        <option value="$PROJECT_DIR$/src/br/com/caelum/contas/modelo/ClienteApp.java" />
+        <option value="$PROJECT_DIR$/src/br/com/caelum/contas/modelo/ServidorApp.java" />
+        <option value="$PROJECT_DIR$/src/br/com/caelum/contas/modelo/TrataCliente.java" />
+        <option value="$PROJECT_DIR$/src/br/com/caelum/contas/modelo/Cliente.java" />
+        <option value="$PROJECT_DIR$/src/br/com/caelum/contas/modelo/Recebedor.java" />
+        <option value="$PROJECT_DIR$/src/br/com/caelum/contas/modelo/Servidor.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="496" />
-    <option name="y" value="8" />
-    <option name="width" value="1415" />
-    <option name="height" value="980" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1737" />
+    <option name="y" value="16" />
+    <option name="width" value="1427" />
+    <option name="height" value="971" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -185,35 +160,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="exercicio1-FJ11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercicio1-FJ11" type="462c0819:PsiDirectoryNode" />
+              <item name="fj11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fj11" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="exercicio1-FJ11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercicio1-FJ11" type="462c0819:PsiDirectoryNode" />
+              <item name="fj11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fj11" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="exercicio1-FJ11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercicio1-FJ11" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="contas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exercicio1-FJ11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercicio1-FJ11" type="462c0819:PsiDirectoryNode" />
+              <item name="fj11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fj11" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="contas" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="exercicio1-FJ11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exercicio1-FJ11" type="462c0819:PsiDirectoryNode" />
+              <item name="fj11" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fj11" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="contas" type="462c0819:PsiDirectoryNode" />
               <item name="modelo" type="462c0819:PsiDirectoryNode" />
@@ -222,6 +189,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -232,6 +200,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -251,13 +220,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Teste1">
-    <configuration name="TestaBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.caelum.contas.main.TestaBox" />
+  <component name="RunManager" selected="Application.Cliente">
+    <configuration name="Cliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.caelum.contas.modelo.Cliente" />
       <module name="exercicio1-FJ11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.caelum.contas.main.*" />
+          <option name="PATTERN" value="br.com.caelum.contas.modelo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,12 +234,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestaContas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.caelum.contas.main.TestaContas" />
+    <configuration name="ClienteApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.caelum.contas.modelo.ClienteApp" />
       <module name="exercicio1-FJ11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.caelum.contas.main.*" />
+          <option name="PATTERN" value="br.com.caelum.contas.modelo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -278,12 +247,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestaInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.caelum.contas.main.TestaInteger" />
+    <configuration name="Servidor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.caelum.contas.modelo.Servidor" />
       <module name="exercicio1-FJ11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.caelum.contas.main.*" />
+          <option name="PATTERN" value="br.com.caelum.contas.modelo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -291,12 +260,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.caelum.contas.main.Teste" />
+    <configuration name="ServidorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.caelum.contas.modelo.ServidorApp" />
       <module name="exercicio1-FJ11" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.caelum.contas.main.*" />
+          <option name="PATTERN" value="br.com.caelum.contas.modelo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -318,19 +287,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestaBox" />
-      <item itemvalue="Application.TestaContas" />
-      <item itemvalue="Application.TestaInteger" />
-      <item itemvalue="Application.Teste" />
       <item itemvalue="Application.Teste1" />
+      <item itemvalue="Application.Servidor" />
+      <item itemvalue="Application.Cliente" />
+      <item itemvalue="Application.ServidorApp" />
+      <item itemvalue="Application.ClienteApp" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Teste1" />
-        <item itemvalue="Application.Teste" />
-        <item itemvalue="Application.TestaInteger" />
-        <item itemvalue="Application.TestaContas" />
-        <item itemvalue="Application.TestaBox" />
+        <item itemvalue="Application.Cliente" />
+        <item itemvalue="Application.Servidor" />
+        <item itemvalue="Application.ClienteApp" />
+        <item itemvalue="Application.ServidorApp" />
       </list>
     </recent_temporary>
   </component>
@@ -347,28 +316,36 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="496" y="8" width="1415" height="980" extended-state="0" />
-    <editor active="true" />
+    <frame x="-1928" y="-5" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19795471" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.19866444" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32992035" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.31139836" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.23501763" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.3993174" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="1" weight="0.31139836" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.3293556" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.23618636" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.3993174" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.716143" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
@@ -378,34 +355,6 @@
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Designer" order="0" />
-      <window_info id="UI Designer" order="1" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.13447171" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32992035" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="2" visible="true" weight="0.32992035" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.32992035" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.3993174" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="right" id="Theme Preview" order="0" />
-      <window_info anchor="right" id="Capture Analysis" order="1" />
-      <window_info anchor="right" id="Palette&#9;" order="2" />
-      <window_info anchor="right" id="Maven" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -484,17 +433,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/JDK/jdk-8u211-linux-x64/jdk1.8.0_211/src.zip!/java/lang/IllegalArgumentException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="50" column="11" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="11" />
-          <folding>
-            <element signature="e#828#829#0" expanded="true" />
-            <element signature="e#852#853#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$USER_HOME$/JDK/jdk-8u211-linux-x64/jdk1.8.0_211/src.zip!/java/lang/IllegalArgumentException.java" />
     <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/modelo/SaldoInsuficienteException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -506,56 +445,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/JDK/jdk-8u211-linux-x64/jdk1.8.0_211/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/JDK/jdk-8u211-linux-x64/jdk1.8.0_211/src.zip!/java/io/Writer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="190" column="20" selection-start-line="190" selection-start-column="20" selection-end-line="190" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/JDK/jdk-8u211-linux-x64/jdk1.8.0_211/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="524" column="27" selection-start-line="524" selection-start-column="27" selection-end-line="524" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/JDK/jdk-8u211-linux-x64/jdk1.8.0_211/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="2420" column="20" selection-start-line="2420" selection-start-column="20" selection-end-line="2420" selection-end-column="20" />
-          <folding>
-            <element signature="e#94598#94599#0" expanded="true" />
-            <element signature="e#94636#94637#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/JDK/jdk-8u211-linux-x64/jdk1.8.0_211/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="327" column="15" selection-start-line="327" selection-start-column="15" selection-end-line="327" selection-end-column="15" />
-          <folding>
-            <element signature="e#11985#11986#0" expanded="true" />
-            <element signature="e#12016#12017#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/JDK/jdk-8u211-linux-x64/jdk1.8.0_211/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="105" column="11" selection-start-line="105" selection-start-column="11" selection-end-line="105" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$USER_HOME$/JDK/jdk-8u211-linux-x64/jdk1.8.0_211/src.zip!/java/lang/System.java" />
+    <entry file="jar://$USER_HOME$/JDK/jdk-8u211-linux-x64/jdk1.8.0_211/src.zip!/java/io/Writer.java" />
+    <entry file="jar://$USER_HOME$/JDK/jdk-8u211-linux-x64/jdk1.8.0_211/src.zip!/java/io/PrintStream.java" />
+    <entry file="jar://$USER_HOME$/JDK/jdk-8u211-linux-x64/jdk1.8.0_211/src.zip!/java/lang/String.java" />
+    <entry file="jar://$USER_HOME$/JDK/jdk-8u211-linux-x64/jdk1.8.0_211/src.zip!/java/util/Random.java" />
+    <entry file="jar://$USER_HOME$/JDK/jdk-8u211-linux-x64/jdk1.8.0_211/src.zip!/java/util/LinkedList.java" />
     <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/main/TestaSplit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -617,17 +512,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/JDK/jdk-8u211-linux-x64/jdk1.8.0_211/src.zip!/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-202">
-          <caret line="561" column="11" selection-start-line="561" selection-start-column="11" selection-end-line="561" selection-end-column="11" />
-          <folding>
-            <element signature="e#21679#21680#0" expanded="true" />
-            <element signature="e#21750#21751#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$USER_HOME$/JDK/jdk-8u211-linux-x64/jdk1.8.0_211/src.zip!/java/util/Scanner.java" />
     <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/main/TesteErro.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -702,38 +587,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/modelo/ContaCorrente.java">
+    <entry file="file://$PROJECT_DIR$/contas.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        <state>
+          <caret selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/modelo/Conta.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state>
           <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/main/TestaContas.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
+        <state>
           <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/ManipuladorDeContas.java">
+    <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/modelo/ContaCorrente.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2">
-          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
+        <state>
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contas.txt">
+    <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/main/Teste1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="35" />
+        <state relative-caret-position="288">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/main/Teste.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/modelo/Programa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/main/TestaInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -747,44 +656,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/main/TestaInteger.java">
+    <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/ManipuladorDeContas.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/modelo/Programa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="16" selection-end-column="9" />
-          <folding>
-            <element signature="e#165#166#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#216#217#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/main/Teste.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="17">
+          <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/modelo/Programa1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
+        <state relative-caret-position="68">
           <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="6" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/main/Teste1.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/net/SocketImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state relative-caret-position="205">
+          <caret line="234" column="26" selection-start-line="234" selection-start-column="26" selection-end-line="234" selection-end-column="26" />
+          <folding>
+            <element signature="e#7456#7457#0" expanded="true" />
+            <element signature="e#7486#7487#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/net/Socket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="691" column="35" lean-forward="true" selection-start-line="691" selection-start-column="35" selection-end-line="691" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/modelo/ClienteApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/modelo/ServidorApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/modelo/Recebedor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/modelo/Cliente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/modelo/TrataCliente.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/br/com/caelum/contas/modelo/Servidor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="22" column="59" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -853,6 +809,17 @@
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
           <last-edited>fj11-lib-contas</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
